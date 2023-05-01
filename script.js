@@ -15,16 +15,16 @@ for (let i = 0; i < palavras.length; i++) {
 var keyword = palavras.join(" ");
 
 if (keyword.length === 0) {
-     var keyword = "Ebook Para Criação de Brigadeiros";
+     var keyword = "Google Ads - Captação de Clientes";
 } else {
     var keyword = palavras.join(" ");
 }
 
-
+var number_whatsapp = "11972855782";
 
 function bntWhatsapp() {
   gtag('event', 'whatsapp');
-    window.location.href = "https://wa.me/5511937373653?text=Ol%C3%A1%2C+gostaria+de+saber+sobre+Ebook+de+Criação+de+Brigadeiros.+Estava+Procurando+Por: +*" + keyword + "*";
+    window.location.href = "https://wa.me/5511972855782?text=Ol%C3%A1%2C+gostaria+de+saber+sobre+Ebook+de+Criação+de+Brigadeiros.+Estava+Procurando+Por: +*" + keyword + "*";
   }
 
   function instagram() {

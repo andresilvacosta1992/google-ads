@@ -67,13 +67,10 @@
         max-width: 100%;
     }
 
-    .btn {
-         background: green;
-    }
 
     .btn:hover {
         background: white;
-        color: green;
+        color: #0d6efd;
    }
 
    .btn-whatsapp {
